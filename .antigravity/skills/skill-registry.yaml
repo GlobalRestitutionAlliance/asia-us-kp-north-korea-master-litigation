@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: north-korean-restitution-roadmap-and-qsf-trust-execution
-  name: North Korean Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/north-korean-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_kp_001
+    name: North Korea Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_002
+    name: North Korea Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_003
+    name: North Korea Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_004
+    name: North Korea Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_005
+    name: North Korea Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_006
+    name: North Korea Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_007
+    name: North Korea Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_008
+    name: North Korea Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_009
+    name: North Korea Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_010
+    name: North Korea Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_011
+    name: North Korea Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_012
+    name: North Korea Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_013
+    name: North Korea Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_014
+    name: North Korea Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_015
+    name: North Korea Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_016
+    name: North Korea Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_017
+    name: North Korea Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_018
+    name: North Korea Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_019
+    name: North Korea Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_020
+    name: North Korea Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_021
+    name: North Korea Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_022
+    name: North Korea Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_023
+    name: North Korea Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_024
+    name: North Korea Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_025
+    name: North Korea Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_026
+    name: North Korea Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_027
+    name: North Korea Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_028
+    name: North Korea Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_029
+    name: North Korea Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_030
+    name: North Korea Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_031
+    name: North Korea Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_032
+    name: North Korea Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_033
+    name: North Korea Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_034
+    name: North Korea Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_035
+    name: North Korea Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_036
+    name: North Korea Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_037
+    name: North Korea Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_038
+    name: North Korea Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_039
+    name: North Korea Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_040
+    name: North Korea Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_041
+    name: North Korea Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_042
+    name: North Korea Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_043
+    name: North Korea Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_044
+    name: North Korea Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_045
+    name: North Korea Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_046
+    name: North Korea Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_047
+    name: North Korea Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_048
+    name: North Korea Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_049
+    name: North Korea Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_050
+    name: North Korea Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_051
+    name: North Korea Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_052
+    name: North Korea Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_053
+    name: North Korea Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_054
+    name: North Korea Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_055
+    name: North Korea Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_056
+    name: North Korea Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_057
+    name: North Korea Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_058
+    name: North Korea Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_059
+    name: North Korea Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_060
+    name: North Korea Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_061
+    name: North Korea Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_062
+    name: North Korea Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_063
+    name: North Korea Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_064
+    name: North Korea Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_065
+    name: North Korea Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_066
+    name: North Korea Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_067
+    name: North Korea Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_068
+    name: North Korea Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_069
+    name: North Korea Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_070
+    name: North Korea Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_071
+    name: North Korea Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_072
+    name: North Korea Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_073
+    name: North Korea Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_074
+    name: North Korea Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_075
+    name: North Korea Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_076
+    name: North Korea Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_077
+    name: North Korea Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_078
+    name: North Korea Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_079
+    name: North Korea Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_080
+    name: North Korea Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_081
+    name: North Korea Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_082
+    name: North Korea Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_083
+    name: North Korea Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_084
+    name: North Korea Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_085
+    name: North Korea Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_086
+    name: North Korea Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_087
+    name: North Korea Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_088
+    name: North Korea Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_089
+    name: North Korea Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_090
+    name: North Korea Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_091
+    name: North Korea Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_092
+    name: North Korea Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_093
+    name: North Korea Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_094
+    name: North Korea Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_095
+    name: North Korea Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_096
+    name: North Korea Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_097
+    name: North Korea Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_098
+    name: North Korea Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_099
+    name: North Korea Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_100
+    name: North Korea Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_101
+    name: North Korea Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_102
+    name: North Korea Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_103
+    name: North Korea Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_104
+    name: North Korea Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_105
+    name: North Korea Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_106
+    name: North Korea Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_107
+    name: North Korea Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_108
+    name: North Korea Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_109
+    name: North Korea Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_110
+    name: North Korea Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_111
+    name: North Korea Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_112
+    name: North Korea Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_113
+    name: North Korea Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_114
+    name: North Korea Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_115
+    name: North Korea Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_116
+    name: North Korea Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_117
+    name: North Korea Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_118
+    name: North Korea Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_119
+    name: North Korea Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_120
+    name: North Korea Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_121
+    name: North Korea Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_122
+    name: North Korea Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_123
+    name: North Korea Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_124
+    name: North Korea Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_125
+    name: North Korea Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_126
+    name: North Korea Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_127
+    name: North Korea Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_128
+    name: North Korea Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_129
+    name: North Korea Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_130
+    name: North Korea Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_131
+    name: North Korea Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_132
+    name: North Korea Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_133
+    name: North Korea Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_134
+    name: North Korea Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_135
+    name: North Korea Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_136
+    name: North Korea Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_137
+    name: North Korea Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_138
+    name: North Korea Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_139
+    name: North Korea Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_140
+    name: North Korea Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_141
+    name: North Korea Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_142
+    name: North Korea Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_143
+    name: North Korea Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_144
+    name: North Korea Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_145
+    name: North Korea Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_146
+    name: North Korea Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_147
+    name: North Korea Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_148
+    name: North Korea Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_149
+    name: North Korea Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_150
+    name: North Korea Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_151
+    name: North Korea Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_152
+    name: North Korea Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_153
+    name: North Korea Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_154
+    name: North Korea Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_155
+    name: North Korea Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_156
+    name: North Korea Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_157
+    name: North Korea Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_158
+    name: North Korea Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_159
+    name: North Korea Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_160
+    name: North Korea Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_161
+    name: North Korea Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_162
+    name: North Korea Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_163
+    name: North Korea Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_164
+    name: North Korea Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_165
+    name: North Korea Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_166
+    name: North Korea Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_167
+    name: North Korea Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_168
+    name: North Korea Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_169
+    name: North Korea Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_170
+    name: North Korea Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_171
+    name: North Korea Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_172
+    name: North Korea Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_173
+    name: North Korea Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_174
+    name: North Korea Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_175
+    name: North Korea Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_176
+    name: North Korea Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_177
+    name: North Korea Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_178
+    name: North Korea Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_179
+    name: North Korea Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_180
+    name: North Korea Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_181
+    name: North Korea Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_182
+    name: North Korea Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_183
+    name: North Korea Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_184
+    name: North Korea Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_185
+    name: North Korea Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_186
+    name: North Korea Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_187
+    name: North Korea Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_188
+    name: North Korea Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_189
+    name: North Korea Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_190
+    name: North Korea Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_191
+    name: North Korea Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_192
+    name: North Korea Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_193
+    name: North Korea Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_194
+    name: North Korea Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_195
+    name: North Korea Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_196
+    name: North Korea Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_197
+    name: North Korea Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_198
+    name: North Korea Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_199
+    name: North Korea Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_200
+    name: North Korea Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_201
+    name: North Korea Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_202
+    name: North Korea Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_203
+    name: North Korea Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_204
+    name: North Korea Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_205
+    name: North Korea Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_206
+    name: North Korea Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_207
+    name: North Korea Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_208
+    name: North Korea Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_209
+    name: North Korea Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_210
+    name: North Korea Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_211
+    name: North Korea Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_212
+    name: North Korea Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_213
+    name: North Korea Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_214
+    name: North Korea Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_215
+    name: North Korea Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_216
+    name: North Korea Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_217
+    name: North Korea Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_218
+    name: North Korea Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_219
+    name: North Korea Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_220
+    name: North Korea Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_221
+    name: North Korea Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_222
+    name: North Korea Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_223
+    name: North Korea Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_224
+    name: North Korea Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_225
+    name: North Korea Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_226
+    name: North Korea Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_227
+    name: North Korea Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_228
+    name: North Korea Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_229
+    name: North Korea Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_230
+    name: North Korea Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_231
+    name: North Korea Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_232
+    name: North Korea Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_233
+    name: North Korea Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_234
+    name: North Korea Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_235
+    name: North Korea Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_236
+    name: North Korea Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_237
+    name: North Korea Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_238
+    name: North Korea Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_239
+    name: North Korea Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_240
+    name: North Korea Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_241
+    name: North Korea Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_242
+    name: North Korea Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_243
+    name: North Korea Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_244
+    name: North Korea Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_245
+    name: North Korea Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_246
+    name: North Korea Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_247
+    name: North Korea Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_248
+    name: North Korea Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_249
+    name: North Korea Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_250
+    name: North Korea Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_251
+    name: North Korea Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kp_252
+    name: North Korea Skill 252
+    status: ACTIVE_SCAFFOLD
