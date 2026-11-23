@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/asia/north-korea",
+  "final_url": "https://www.hrw.org/asia/north-korea",
+  "title": "HRW - North Korea",
+  "fetched_at": "2026-11-23T15:24:47.574193Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 202517,
+  "sha256": "e528c7e0d3e53c9ca8d2ad35d812ab9f1af61f7575bfbb6abb22a39a5ba3435f",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
